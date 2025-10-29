@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <dataset>
-    <!-- Dataset vazio para inicializar os testes -->
+    <!-- Dataset vazio para inicializar os testes - a tabela usuario é listada mas sem dados -->
+    <usuario />
 </dataset>
