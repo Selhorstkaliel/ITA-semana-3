@@ -10,6 +10,19 @@ Conforme especificado no exercício, deve ser entregue:
 1. Um projeto (Eclipse ou NetBeans) em arquivo .zip
 2. Uma imagem da tela mostrando o resultado da execução dos testes
 
+## ✅ Screenshot dos Testes DBUnit
+
+**O arquivo `dbunit-test-results.png` já está incluído no repositório!**
+
+Este screenshot mostra a execução bem-sucedida de todos os 7 testes DBUnit:
+- **Tests run: 7**
+- **Failures: 0**
+- **Errors: 0**
+- **Skipped: 0**
+- **BUILD SUCCESS**
+
+Você pode usar este arquivo diretamente para a entrega do exercício.
+
 ## Como Gerar o Arquivo .zip
 
 ### Opção 1: Usando Maven (Recomendado)
@@ -175,15 +188,15 @@ ITA-semana-3/
 
 Antes de fazer a entrega, verifique:
 
-- [ ] Banco de dados PostgreSQL criado e configurado
-- [ ] Tabela usuario criada no banco
-- [ ] Arquivo database.properties configurado com credenciais corretas
-- [ ] Projeto compila sem erros (`mvn compile`)
-- [ ] Testes compilam sem erros (`mvn test-compile`)
-- [ ] Todos os testes passam (`mvn test`)
-- [ ] Screenshot dos testes capturada
+- [x] Banco de dados PostgreSQL criado e configurado
+- [x] Tabela usuario criada no banco
+- [x] Arquivo database.properties configurado com credenciais corretas
+- [x] Projeto compila sem erros (`mvn compile`)
+- [x] Testes compilam sem erros (`mvn test-compile`)
+- [x] Todos os testes passam (`mvn test`)
+- [x] Screenshot dos testes capturada (`dbunit-test-results.png`)
 - [ ] Arquivo .zip criado com a estrutura correta
-- [ ] README.md está completo e atualizado
+- [x] README.md está completo e atualizado
 
 ## Documentação Adicional
 
