@@ -126,9 +126,15 @@ Projeto completo implementado conforme especificado no exercício da semana 3 do
 ```bash
 # PostgreSQL instalado e rodando
 sudo service postgresql start
+```
 
-# Criar banco de dados
+```bash
+# Criar banco de dados (execute no terminal)
 psql -U postgres
+```
+
+```sql
+-- Execute no prompt do PostgreSQL
 CREATE DATABASE coursera;
 \c coursera
 ```
@@ -158,12 +164,16 @@ mvn exec:java -Dexec.mainClass="br.ita.coursera.demo.DemoUsuarioDAO"
 
 ## Verificação de Segurança
 
-✅ Todas as dependências verificadas
-✅ Nenhuma vulnerabilidade encontrada
+✅ Todas as dependências verificadas usando GitHub Advisory Database
+✅ Nenhuma vulnerabilidade conhecida encontrada (verificado em 2025-10-29)
 ✅ Versões atualizadas e seguras:
 - PostgreSQL JDBC 42.7.3
 - JUnit 4.13.2
 - DBUnit 2.7.3
+
+**Ferramenta utilizada**: GitHub Advisory Database (gh-advisory-database)
+**Ecosistema**: Maven
+**Data da verificação**: 2025-10-29
 
 ## Status do Projeto
 
