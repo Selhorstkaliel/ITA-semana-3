@@ -1,12 +1,24 @@
 # ITA Semana 3 - Projeto JDBC com DBUnit
 
-## Descrição
+## 📋 Descrição
 
 Este projeto implementa um sistema de gerenciamento de usuários utilizando JDBC para acesso ao banco de dados PostgreSQL. O projeto foi desenvolvido como exercício da semana 3 do curso ITA, focando em:
 
 - Criação de classes para acesso a banco de dados usando JDBC
 - Implementação de padrão DAO (Data Access Object)
 - Testes automatizados com DBUnit
+
+## ✅ Status do Projeto
+
+**Todos os 7 testes DBUnit passaram com sucesso!**
+
+![Screenshot showing successful execution of all 7 DBUnit tests with zero failures](dbunit-test-results.png)
+
+- Tests run: 7
+- Failures: 0
+- Errors: 0
+- Skipped: 0
+- BUILD SUCCESS
 
 ## Estrutura do Projeto
 
