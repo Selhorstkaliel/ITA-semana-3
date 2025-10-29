@@ -12,7 +12,7 @@ Este projeto implementa um sistema de gerenciamento de usuários utilizando JDBC
 
 **Todos os 7 testes DBUnit passaram com sucesso!**
 
-![DBUnit Test Results](dbunit-test-results.png)
+![Screenshot showing successful execution of all 7 DBUnit tests with zero failures](dbunit-test-results.png)
 
 - Tests run: 7
 - Failures: 0

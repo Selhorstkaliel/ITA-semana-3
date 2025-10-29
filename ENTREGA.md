@@ -12,7 +12,7 @@ Conforme especificado no exercício, deve ser entregue:
 
 ## ✅ Screenshot dos Testes DBUnit
 
-**O arquivo `dbunit-test-results.png` já está incluído no repositório!**
+**O arquivo dbunit-test-results.png já está incluído no repositório!**
 
 Este screenshot mostra a execução bem-sucedida de todos os 7 testes DBUnit:
 - **Tests run: 7**
